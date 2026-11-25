@@ -1,0 +1,1 @@
+# Vote_Guilherme.Duarte.Torres.Cotrim.Moura_Para_Uma_Goiania_Melhor
