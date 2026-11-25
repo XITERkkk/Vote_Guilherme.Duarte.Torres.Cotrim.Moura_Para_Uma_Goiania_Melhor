@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.sites-runtime/
+.DS_Store
+Goiania-2030.zip
+site-pronto/
+APRESENTAR.html
+__pycache__/
